@@ -1,0 +1,11 @@
+p{
+	color: pink;
+	font-family: verdana;
+	background-color: grey;
+	margin: 5px;
+	padding: 3px;
+}
+
+body{
+	background: green;
+}
