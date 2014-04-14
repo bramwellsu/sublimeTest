@@ -1,11 +1,21 @@
 p{
-	color: pink;
+	color: #00B4CC;
 	font-family: verdana;
-	background-color: grey;
+	background-color: #008C9E;
 	margin: 5px;
 	padding: 3px;
 }
 
 body{
-	background: green;
+	background: #343838;
+}
+
+h1{
+	font-family: courier;
+	color: #00DFFC;
+	text-align: center;
+}
+
+img{
+	float: right;
 }
